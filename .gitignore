@@ -34,3 +34,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Build app files
+*.tar.gz
+*.ipa
+*.apk
